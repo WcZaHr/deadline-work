@@ -52,7 +52,7 @@ export default {
         '--button-aberration-intensity': '0px',
         '--button-elasticity': '0.35s',
         '--button-corner-radius': '100px'
-      }
+      }//液态玻璃按钮组件
     }
   }
 }
